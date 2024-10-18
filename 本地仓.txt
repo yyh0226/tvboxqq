@@ -1,0 +1,39 @@
+{ "urls": [
+
+{ "url": "https://gitee.com/yxl_99/ff/raw/master/0803.bmp", "name": "自用" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/ziyong/0803.json", "name": "自用备用地址" },
+
+{ "url": "clan://localhost/2/c18h.pdd", "name": "本地c18h.pdd" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/真心在线/FongMi.json", "name": "真心在线线路" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/pg/jsm.bmp", "name": "pg瓜子简化版可能会被屏蔽" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/yoyo/refs/heads/main/yoyo.json", "name": "yoyo线路" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/饭太硬/api.json", "name": "饭太硬" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/小米/api.json", "name": "小米" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/肥猫/api.json", "name": "肥猫" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/王二小/api.json", "name": "王二小" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/摸鱼儿/api.json", "name": "摸鱼儿" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/潇洒/api.json", "name": "潇洒" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/天天开心/api.json", "name": "天天开心" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/南风/api.json", "name": "南风" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/骚零/api.json", "name": "骚零" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/OK/api.json", "name": "OK" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/戏曲音乐/api.json", "name": "戏曲音乐" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/短剧频道/api.json", "name": "短剧频道" },
+
+{ "url": "https://js.catvod.com/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/少儿频道/api.json", "name": "少儿频道" }]}
