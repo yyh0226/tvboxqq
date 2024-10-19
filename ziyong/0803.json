@@ -41,7 +41,20 @@
       "api": "csp_AList",
       "ext": "./lib/c.txt"
     },
-
+{
+  
+      
+       "key": "AList2",
+      "name": "AList盘|视频来源于网路未成年人禁止观看",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://pan.ly93.cc/f/rLrBil/p.json",
+      "style": {
+        "type": "list"
+      }
+    }, 
 {
             "key": "天天",
             "name": "天天🌱直连",
