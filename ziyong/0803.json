@@ -97,7 +97,17 @@
             "filterable": 1,
             "ext": "./js/guazi.js"
         },
-
+{
+            "key": "csp_瓜子",
+            "name": "瓜子影视备用┃秒播",
+            "api": "csp_Gz360",
+            "jar": "https://gitee.com/yxl_99/ff/raw/master/lib/xm.jar",
+            "type": 3,
+            "searchable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0
+        },
 {
             "key": "木耳",
             "name": "木耳┃秒播",
