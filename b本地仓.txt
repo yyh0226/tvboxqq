@@ -79,5 +79,5 @@
 
 { "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxTW/refs/heads/master/本地【白嫖线路】/api.json", "name": "天威【白嫖线路】" },
 
-{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxTW/refs/heads/master/本地【道长天威】/api.json", "name": "天威【道长天威】" }
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxTW/refs/heads/master/本地【道长本地】/api.json", "name": "天威【道长天威】" }
 ]}
