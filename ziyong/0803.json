@@ -101,7 +101,7 @@
             "key": "csp_瓜子",
             "name": "瓜子影视备用┃秒播",
             "api": "csp_Gz360",
-            "jar": "https://gitee.com/yxl_99/ff/raw/master/lib/xm.jar",
+            "jar": "./lib/xm.jar",
             "type": 3,
             "searchable": 1,
             "playerType": 2,
