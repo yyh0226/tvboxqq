@@ -6,7 +6,6 @@
 
 { "url": "clan://localhost/2/c18h.pdd", "name": "本地c18h.pdd需要/2下面" },
 
-{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/真心在线/FongMi.json", "name": "真心在线线路" },
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/pg/jsm.bmp", "name": "pg瓜子简化版可能会被屏蔽" },
 
