@@ -66,16 +66,7 @@
             "filterable": 1,
             "timeout": 10
         },
-{
-      "key": "賤賤",
-      "name": "賤賤🐭手机看",
-      "type": 3,
-      "jar": "./custom_spider.jar",
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/jianpian.json"
-    },
+
   {
             "key": "️爱看Bot",
             "name": "⛅️爱看Bot┃直连",
