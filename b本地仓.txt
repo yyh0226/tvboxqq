@@ -14,6 +14,12 @@
 
 { "url": "http://192.168.8.8:8080", "name": "本地饭太硬勿点" },
 
+{ "url": "https://www.饭太硬.com/tv", "name": "饭太硬官方" },
+
+{ "url": "https://tvbox.王二小放牛娃.xyz", "name": "王二小放牛娃官方" },
+
+{ "url": "https://http://ok321.top/tv", "name": "ok线路官方" },
+
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/pg/jsm.bmp", "name": "pg瓜子简化版可能会被屏蔽" },
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/yoyo/refs/heads/main/yoyo.json", "name": "yoyo线路" },
