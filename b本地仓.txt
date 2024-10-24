@@ -18,6 +18,8 @@
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/yoyo/refs/heads/main/yoyo.json", "name": "yoyo线路" },
 
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/真心在线/FongMi.json", "name": "真心在线慎用" },
+
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/饭太硬/api.json", "name": "饭太硬" },
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/小米/api.json", "name": "小米" },
