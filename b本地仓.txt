@@ -8,9 +8,9 @@
 
 { "url": "clan://localhost/2/c18h.pdd", "name": "本地c18h.pdd需要/2下面" },
 
-{ "url": "http://192.168.8.8:8080/tv?token=b8385fe479e7a750", "name": "本地T4搜索勿点" },
+{ "url": "http://192.168.8.8:8080/tv?token=6a87d589e7a1e221", "name": "本地T4搜索勿点" },
 
-{ "url": "http://192.168.8.8:8080/tv?token=b8385fe479e7a750&platform=ysc", "name": "本地T4影视仓搜索勿点" },
+{ "url": "http://192.168.8.8:8080/tv?token=6a87d589e7a1e221&platform=ysc", "name": "本地T4影视仓搜索勿点" },
 
 { "url": "http://192.168.8.8:8080", "name": "本地饭太硬勿点" },
 
