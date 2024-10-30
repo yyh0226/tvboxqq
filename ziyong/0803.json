@@ -1003,7 +1003,35 @@
       "api": "http://ztha.top/catjs/JS/lib/drpy.min.js",
       "ext": "http://ztha.top/catjs/JS/js/优酷.js"
     },
-
+ {
+            "key": "君1君", 
+            "name": "👑鸭鸭在线4k-A", 
+            "playerType": 1, 
+            "type": 3, 
+            "changeable": 0,
+         
+             "playerType":2,    
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+        
+        		"api": "./lib/影腾.js",
+            "ext": {
+                "host": "http://cmsytv.lyyytv.cn/api.php/app/",
+                "*": [
+                    "http://1.94.22.110:1122/myyt.php?url=", 
+                    "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
+                ]
+            }
+        },
+           {  "key": "drpy_路漫漫",
+      "name": "👑鸭鸭4k在线-B",
+      "type": 3,
+       "playerType":2,
+       "quickSearch":1, "changeable":1, "filterable":1,
+      "api": "./js/drpy2.min.js",
+      "ext": "./lib/zjydj.js"
+    },
   
     {
       "key": "NRTFIY星球",
