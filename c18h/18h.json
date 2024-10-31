@@ -1,5 +1,5 @@
 {
-  "spider": "https://pan.ly93.cc/f/9VrcV/spider.jar",
+  "spider": "./18h.jar",
   "wallpaper": "https://img.qovv.cn/2024/04/28/662e5b8749c16.jpg",
   "lives": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "name": "央卫直播",
-      "url": "https://gitee.com/ck995/zhibo/raw/master/18lib/live.m3u",
+      "url": "./18lib/live.m3u",
       "type": 0,
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -30,7 +30,7 @@
     {
       "name": "快看电视",
       "type": 0,
-      "url": "https://gitee.com/ck995/zhibo/raw/master/18lib/0331.txt",
+      "url": "./18lib/0331.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -39,7 +39,7 @@
     {
       "name": "小黑IPV",
       "type": 0,
-      "url": "https://gitee.com/ck995/zhibo/raw/master/18lib/xiaohei.txt",
+      "url": "./18lib/xiaohei.txt",
       "ua": "okhttp/3.15",
       "epg": "https://1060s677v8.goho.co/epg.php",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -47,7 +47,7 @@
     {
       "name": "小米电视",
       "type": 0,
-      "url": "https://gitee.com/ck995/zhibo/raw/master/18lib/直播挺快.txt",
+      "url": "./18lib/直播挺快.txt",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -63,7 +63,7 @@
     {
       "name": "拾光LIVE",
       "type": 0,
-      "url": "https://gitee.com/ck995/zhibo/raw/master/18lib/xlive.json",
+      "url": "./18lib/xlive.json",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "http://tvbox.top/tvbox/logo/{name}.png"
@@ -73,12 +73,12 @@
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
       "type": 0,
       "timeout": 40,
-      "url": "https://gitee.com/ck995/zhibo/raw/master/18lib/xiutan.m3u"
+      "url": "./18lib/xiutan.m3u"
     },
     {
       "name": "摸鱼YG",
       "type": 0,
-      "url": "https://gitee.com/ck995/zhibo/raw/master/18lib/y_g.txt",
+      "url": "./18lib/y_g.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -96,7 +96,7 @@
     {
       "name": "小胡电视",
       "type": 0,
-      "url": "https://gitee.com/ck995/zhibo/raw/master/18lib/live.txt",
+      "url": "./18lib/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -114,7 +114,7 @@
     {
       "name": "Ray直播",
       "type": 0,
-      "url": "https://gitee.com/ck995/zhibo/raw/master/18lib/tvlive.txt",
+      "url": "./18lib/tvlive.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "http://tvbox.top/tvbox/logo/{name}.png"
@@ -130,7 +130,7 @@
     {
       "name": "俊于直播",
       "type": 0,
-      "url": "https://gitee.com/ck995/zhibo/raw/master/18lib/live.txt",
+      "url": "./18lib/live.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "http://tvbox.top/tvbox/logo/{name}.png"
@@ -138,7 +138,7 @@
     {
       "name": "APTV",
       "type": 0,
-      "url": "https://gitee.com/ck995/zhibo/raw/master/18lib/iptv.m3u",
+      "url": "./18lib/iptv.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://1060s677v8.goho.co/epg.php",
@@ -147,7 +147,7 @@
     {
       "name": "YanG Gather",
       "type": 0,
-      "url": "https://gitee.com/ck995/zhibo/raw/master/18lib/Gather.m3u",
+      "url": "./18lib/Gather.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -156,7 +156,7 @@
     {
       "name": "超清LIVE",
       "type": 0,
-      "url": "https://gitee.com/ck995/zhibo/raw/master/18lib/tv.m3u",
+      "url": "./18lib/tv.m3u",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "http://tvbox.top/tvbox/logo/{name}.png"
@@ -173,7 +173,7 @@
     {
       "name": "LIPV6",
       "type": 0,
-      "url": "https://gitee.com/ck995/zhibo/raw/master/18lib/m3.m3u",
+      "url": "./18lib/m3.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -182,7 +182,7 @@
     {
       "name": "FMM_IPV6",
       "type": 0,
-      "url": "https://gitee.com/ck995/zhibo/raw/master/18lib/ipv6.m3u",
+      "url": "./18lib/ipv6.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -195,7 +195,7 @@
       "name": "🌕豆瓣热播┃推荐",
       "type": 3,
       "api": "csp_DouDou",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/fan.txt",
+      "jar": "./18lib/fan.txt",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -205,7 +205,7 @@
       "name": "🌥️┃配置中心",
       "type": 3,
       "api": "csp_Config",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/dongchenok.jar",
+      "jar": "./18lib/dongchenok.jar",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -218,43 +218,43 @@
       "name": "📡┃CCTV综合┃",
       "type": 3,
       "api": "py_cctv",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/py1.jar",
+      "jar": "./18lib/py1.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/py_cctv.py"
+      "ext": "./18lib/py_cctv.py"
     },
     {
       "key": "m1905",
       "name": "📡┃CCTV电影┃",
       "type": 3,
       "api": "py_cctv",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/py1.jar",
+      "jar": "./18lib/py1.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/m1905.py"
+      "ext": "./18lib/m1905.py"
     },
     {
       "key": "配置中心",
       "name": "转存原画夸克🏬配置",
       "type": 3,
       "api": "csp_Config",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/pg0328.jar",
+      "jar": "./18lib/pg0328.jar",
       "searchable": 0,
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/PG推送.json"
+      "ext": "./18lib/PG推送.json"
     },
     {
       "key": "玩偶弹幕版",
       "name": "玩偶⚗️弹幕4K",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/dongchenok.jar",
+      "jar": "./18lib/dongchenok.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -274,14 +274,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/kaixin.json"
+      "ext": "./18lib/kaixin.json"
     },
     {
       "key": "阿里合集",
       "name": "云盘🧓臻享4K",
       "type": 3,
       "api": "csp_AliShare",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/dongchenok.jar",
+      "jar": "./18lib/dongchenok.jar",
       "searchable": 1,
       "changeable": 0,
       "filterable": 0,
@@ -300,18 +300,18 @@
       "name": "苏苏🛰️臻享4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/xyqwogg.jar",
+      "jar": "./18lib/xyqwogg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/alisusu.json"
+      "ext": "./18lib/alisusu.json"
     },
     {
       "key": "玩偶哥哥",
       "name": "饭偶⛅扫码4K",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/fanzx.txt",
+      "jar": "./18lib/fanzx.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -331,14 +331,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/tudou.json"
+      "ext": "./18lib/tudou.json"
     },
     {
       "key": "Hdhive",
       "name": "影巢🚜臻享4K",
       "type": 3,
       "api": "csp_Hdhive",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/pg2.jar",
+      "jar": "./18lib/pg2.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -353,14 +353,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/woggzx.json"
+      "ext": "./18lib/woggzx.json"
     },
     {
       "key": "校长影视",
       "name": "校长🛶蓝光4K",
       "type": 3,
       "api": "csp_XiaoZhang",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/PG.jar",
+      "jar": "./18lib/PG.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -372,7 +372,7 @@
       "name": "团长🍡蓝光4K",
       "type": 3,
       "api": "csp_TZFile",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/PG.jar",
+      "jar": "./18lib/PG.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -387,14 +387,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/duoduo.json"
+      "ext": "./18lib/duoduo.json"
     },
     {
       "key": "多多网盘",
       "name": "多多🚛弹幕4K",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/dongchenok.jar",
+      "jar": "./18lib/dongchenok.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -411,7 +411,7 @@
       "name": "皮皮虾🦐蓝光4K",
       "type": 3,
       "api": "csp_Ppxzy",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/PG.jar",
+      "jar": "./18lib/PG.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -423,7 +423,7 @@
       "name": "表哥🍀臻享4K",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/dongchenok.jar",
+      "jar": "./18lib/dongchenok.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -439,31 +439,31 @@
       "name": "利播🔮蓝光4K",
       "type": 3,
       "api": "csp_Libvio",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/pg0401.jar",
+      "jar": "./18lib/pg0401.jar",
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/tokenm.json$$$https://www.libvio.fun/$$$null"
+      "ext": "./18lib/tokenm.json$$$https://www.libvio.fun/$$$null"
     },
     {
       "key": "Xinshijue",
       "name": "视觉👀网盘4K",
       "type": 3,
       "api": "csp_Xinshijue",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/pg0401.jar",
+      "jar": "./18lib/pg0401.jar",
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/wogg.json"
+      "ext": "./18lib/wogg.json"
     },
     {
       "key": "土豆弹幕版",
       "name": "土豆🥔弹幕4K",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/dongchenok.jar",
+      "jar": "./18lib/dongchenok.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -708,52 +708,52 @@
       "key": "腾",
       "name": "♻️腾讯┃视频",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/nxog.js",
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/tt.js"
+      "api": "./18lib/nxog.js",
+      "ext": "./18lib/tt.js"
     },
     {
       "key": "优",
       "name": "♻️优酷┃视频",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/nxog.js",
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/yy.js"
+      "api": "./18lib/nxog.js",
+      "ext": "./18lib/yy.js"
     },
     {
       "key": "芒",
       "name": "♻️芒果┃视频",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/nxog.js",
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/mm.js"
+      "api": "./18lib/nxog.js",
+      "ext": "./18lib/mm.js"
     },
     {
       "key": "爱",
       "name": "♻️奇艺┃视频",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/nxog.js",
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/aa.js"
+      "api": "./18lib/nxog.js",
+      "ext": "./18lib/aa.js"
     },
     {
       "key": "dr_搜狗",
       "name": "♻️搜狗┃视频",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/drpy2.min.js",
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/菜狗.js"
+      "api": "./18lib/drpy2.min.js",
+      "ext": "./18lib/菜狗.js"
     },
     {
       "key": "dr_360影视",
       "name": "♻️360┃视频 ",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/drpy2.min.js",
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/360.js"
+      "api": "./18lib/drpy2.min.js",
+      "ext": "./18lib/360.js"
     },
     {
       "key": "荐片影院",
       "name": "🔎荐片┃p2p",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/drpy.min.js",
+      "api": "./18lib/drpy.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/jianpian.js"
+      "ext": "./18lib/jianpian.js"
     },
     {
       "key": "BILFUN影院",
@@ -763,14 +763,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/BILFUN.json"
+      "ext": "./18lib/BILFUN.json"
     },
     {
       "key": "18哈影视",
       "name": "🍒18HA┃高清",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/drpy.min.js",
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/18哈.js"
+      "api": "./18lib/drpy.min.js",
+      "ext": "./18lib/18哈.js"
     },
     {
       "key": "臭蛋蛋影院",
@@ -780,7 +780,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/臭蛋蛋影视.json"
+      "ext": "./18lib/臭蛋蛋影视.json"
     },
     {
       "key": "苹果",
@@ -790,14 +790,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/苹果影视.json"
+      "ext": "./18lib/苹果影视.json"
     },
     {
       "key": "吃瓜影视",
       "name": "🍉吃瓜┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/XBPQ.jar",
+      "jar": "./18lib/XBPQ.jar",
       "ext": {
         "站名": "吃瓜影视",
         "主页url": "https://www.chiguafilm.com/",
@@ -814,14 +814,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/shiliu.json"
+      "ext": "./18lib/shiliu.json"
     },
     {
       "key": "萌米",
       "name": "🍙萌米┃快播",
       "type": 3,
       "api": "csp_AppTT",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/fan.txt",
+      "jar": "./18lib/fan.txt",
       "timeout": 15,
       "playerType": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
@@ -834,7 +834,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/稀饭影视.json"
+      "ext": "./18lib/稀饭影视.json"
     },
     {
       "key": "电影大师",
@@ -844,7 +844,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/电影大师.json"
+      "ext": "./18lib/电影大师.json"
     },
     {
       "key": "黑狐影院",
@@ -853,10 +853,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/XBPQ1.jar",
+      "jar": "./18lib/XBPQ1.jar",
       "playerType": "2",
       "api": "csp_XBPQ",
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/黑狐.json"
+      "ext": "./18lib/黑狐.json"
     },
     {
       "key": "大象影视",
@@ -866,7 +866,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/dx.json"
+      "ext": "./18lib/dx.json"
     },
     {
       "key": "csp_XYQHiker_疯狗影视",
@@ -876,7 +876,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/疯狗影视.json"
+      "ext": "./18lib/疯狗影视.json"
     },
     {
       "key": "csp_XYQHiker_乐鱼影视",
@@ -886,7 +886,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/乐鱼影视.json"
+      "ext": "./18lib/乐鱼影视.json"
     },
     {
       "key": "csp_XYQHiker_鸭奈飞影视",
@@ -896,7 +896,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/鸭奈飞影视.json"
+      "ext": "./18lib/鸭奈飞影视.json"
     },
     {
       "key": "csp_XYQHiker_电影牛影院",
@@ -906,7 +906,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/电影牛影院.json"
+      "ext": "./18lib/电影牛影院.json"
     },
     {
       "key": "csp_XYQHiker_秋霞电影",
@@ -916,7 +916,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/秋霞电影.json"
+      "ext": "./18lib/秋霞电影.json"
     },
     {
       "key": "电影驿站",
@@ -926,7 +926,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/电影驿站.json"
+      "ext": "./18lib/电影驿站.json"
     },
     {
       "key": "厂长",
@@ -948,7 +948,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/木易影画.json"
+      "ext": "./18lib/木易影画.json"
     },
     {
       "key": "歪片星球",
@@ -958,16 +958,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/歪片星球.json"
+      "ext": "./18lib/歪片星球.json"
     },
     {
       "key": "爱看机器",
       "name": "🤖爱看┃机器",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/drpy2.min.js",
+      "api": "./18lib/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/ikanbot2.js"
+      "ext": "./18lib/ikanbot2.js"
     },
     {
       "key": "剧迷影院",
@@ -977,7 +977,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/Jm.json"
+      "ext": "./18lib/Jm.json"
     },
     {
       "key": "益达影视",
@@ -987,45 +987,45 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/yd.json"
+      "ext": "./18lib/yd.json"
     },
     {
       "key": "南瓜影视",
       "name": "🎃南瓜┃影视",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/nxog.js",
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/101.js"
+      "api": "./18lib/nxog.js",
+      "ext": "./18lib/101.js"
     },
     {
       "key": "茶杯狐",
       "name": "☕茶杯┃影视",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/nxog.js",
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/102.js"
+      "api": "./18lib/nxog.js",
+      "ext": "./18lib/102.js"
     },
     {
       "key": "畅梦影视",
       "name": "💥畅梦┃影视",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/nxog.js",
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/103.js"
+      "api": "./18lib/nxog.js",
+      "ext": "./18lib/103.js"
     },
     {
       "key": "达达龟",
       "name": "💥达达┃影视",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/nxog.js",
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/104.js"
+      "api": "./18lib/nxog.js",
+      "ext": "./18lib/104.js"
     },
     {
       "key": "厂长影视",
       "name": "💥厂长┃影视",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/drpy.min.js",
+      "api": "./18lib/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/cangzan.js"
+      "ext": "./18lib/cangzan.js"
     },
     {
       "key": "七七影视",
@@ -1035,7 +1035,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/七七影视.json"
+      "ext": "./18lib/七七影视.json"
     },
     {
       "key": "小小影视i",
@@ -1045,7 +1045,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/xfeiji.json"
+      "ext": "./18lib/xfeiji.json"
     },
     {
       "key": "金漫影视",
@@ -1056,7 +1056,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/JMAN3.json"
+      "ext": "./18lib/JMAN3.json"
     },
     {
       "key": "csp_XYQHiker_在线之家",
@@ -1066,7 +1066,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/在线之家.json"
+      "ext": "./18lib/在线之家.json"
     },
     {
       "key": "csp_XYQHiker_影视工场",
@@ -1076,7 +1076,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/影视工场.json"
+      "ext": "./18lib/影视工场.json"
     },
     {
       "key": "时代影院",
@@ -1086,7 +1086,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/时代影视.json"
+      "ext": "./18lib/时代影视.json"
     },
     {
       "key": "csp_XYQHiker_奈飞中文",
@@ -1096,7 +1096,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/奈飞中文.json"
+      "ext": "./18lib/奈飞中文.json"
     },
     {
       "key": "网飞影视",
@@ -1107,7 +1107,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/Netflix中文.json"
+      "ext": "./18lib/Netflix中文.json"
     },
     {
       "key": "皮皮影视",
@@ -1118,7 +1118,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/PP9.json"
+      "ext": "./18lib/PP9.json"
     },
     {
       "key": "电影先生",
@@ -1128,7 +1128,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/dyng.json"
+      "ext": "./18lib/dyng.json"
     },
     {
       "key": "影视渣渣",
@@ -1138,7 +1138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/影视渣渣.json"
+      "ext": "./18lib/影视渣渣.json"
     },
     {
       "key": "速映影视",
@@ -1148,7 +1148,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/suy.json"
+      "ext": "./18lib/suy.json"
     },
     {
       "key": "五五影院",
@@ -1158,7 +1158,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/55影视.json"
+      "ext": "./18lib/55影视.json"
     },
     {
       "key": "voflix_HD",
@@ -1168,7 +1168,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/voflix_HD.json"
+      "ext": "./18lib/voflix_HD.json"
     },
     {
       "key": "奇趣影视",
@@ -1178,7 +1178,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/奇趣影视.json"
+      "ext": "./18lib/奇趣影视.json"
     },
     {
       "key": "csp_XYQHiker_看一看影视",
@@ -1188,7 +1188,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/看一看影视.json"
+      "ext": "./18lib/看一看影视.json"
     },
     {
       "key": "爱看影院",
@@ -1198,7 +1198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/爱看影院.json"
+      "ext": "./18lib/爱看影院.json"
     },
     {
       "key": "csp_XYQHiker_非凡影视",
@@ -1208,7 +1208,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/非凡影视.json"
+      "ext": "./18lib/非凡影视.json"
     },
     {
       "key": "量子影院",
@@ -1218,7 +1218,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/量子影视.json"
+      "ext": "./18lib/量子影视.json"
     },
     {
       "key": "橙汁",
@@ -1308,14 +1308,14 @@
       "ext": {
         "danmu": true
       },
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
+      "jar": "./18lib/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "新6V",
       "name": "🧲新Ⅵ┃磁力",
       "type": 3,
       "api": "csp_Xb6v",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/pg0328.jar",
+      "jar": "./18lib/pg0328.jar",
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
@@ -1327,7 +1327,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": 1,
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/XBPQ.jar",
+      "jar": "./18lib/XBPQ.jar",
       "ext": {
         "主页url": "https://www.xbw20.com/",
         "编码": "gb2312",
@@ -1360,14 +1360,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/infans.json"
+      "ext": "./18lib/infans.json"
     },
     {
       "key": "磁力熊",
       "name": "🧲磁力熊┃磁力",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/drpy.min.js",
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/磁力熊.js"
+      "api": "./18lib/drpy.min.js",
+      "ext": "./18lib/磁力熊.js"
     },
     {
       "key": "好恐怖磁力",
@@ -1387,7 +1387,7 @@
         "播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
         "播放列表": "<ul>&&</div>[包含:magnet]"
       },
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/XBPQ.jar"
+      "jar": "./18lib/XBPQ.jar"
     },
     {
       "key": "电影港",
@@ -1397,7 +1397,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/电影港.json"
+      "ext": "./18lib/电影港.json"
     },
     {
       "key": "布谷TV",
@@ -1407,7 +1407,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/布谷TV.json"
+      "ext": "./18lib/布谷TV.json"
     },
     {
       "key": "Bt0",
@@ -1453,7 +1453,7 @@
       "name": "🧲美剧迷┃磁力",
       "type": 3,
       "api": "csp_Meijumi",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/pg0318.jar",
+      "jar": "./18lib/pg0318.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -1468,7 +1468,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/哔嘀影视.json"
+      "ext": "./18lib/哔嘀影视.json"
     },
     {
       "key": "4KHDR磁力",
@@ -1478,7 +1478,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/4KHDR.json"
+      "ext": "./18lib/4KHDR.json"
     },
     {
       "key": "中国蓝光",
@@ -1488,7 +1488,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/中国蓝光.json"
+      "ext": "./18lib/中国蓝光.json"
     },
     {
       "key": "4K影视",
@@ -1499,7 +1499,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/4K影院.json"
+      "ext": "./18lib/4K影院.json"
     },
     {
       "key": "JOJO影视",
@@ -1512,19 +1512,19 @@
       "ext": {
         "danmu": true
       },
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
+      "jar": "./18lib/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "子子影视",
       "name": "🧿子子┃蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/5.jar",
+      "jar": "./18lib/5.jar",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/zizi.json"
+      "ext": "./18lib/zizi.json"
     },
     {
       "key": "影院蓝光",
@@ -1534,7 +1534,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/影院蓝光.json"
+      "ext": "./18lib/影院蓝光.json"
     },
     {
       "key": "策驰蓝光",
@@ -1544,7 +1544,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/策驰影视.json"
+      "ext": "./18lib/策驰影视.json"
     },
     {
       "key": "小熊蓝光",
@@ -1554,7 +1554,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/小熊影视.json"
+      "ext": "./18lib/小熊影视.json"
     },
     {
       "key": "可可影视",
@@ -1563,7 +1563,7 @@
       "playerType": 2,
       "searchable": 1,
       "api": "csp_XBPQ",
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/kkys.json"
+      "ext": "./18lib/kkys.json"
     },
     {
       "key": "即看影视",
@@ -1573,7 +1573,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/即看影视.json"
+      "ext": "./18lib/即看影视.json"
     },
     {
       "key": "素白白影视",
@@ -1582,14 +1582,14 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/subaibai.json"
+      "ext": "./18lib/subaibai.json"
     },
     {
       "key": "原创",
       "name": "🧿原创┃蓝光",
       "type": 3,
       "api": "csp_YCyz",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/fan0417.txt",
+      "jar": "./18lib/fan0417.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -1670,12 +1670,12 @@
       "name": "💡农民┃影视",
       "type": 3,
       "api": "csp_Nmys",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/fan0513.txt",
+      "jar": "./18lib/fan0513.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/nmys.json"
+      "ext": "./18lib/nmys.json"
     },
     {
       "key": "百万影视",
@@ -1685,7 +1685,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/百万.json"
+      "ext": "./18lib/百万.json"
     },
     {
       "key": "文才影视",
@@ -1703,7 +1703,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/影咖.json"
+      "ext": "./18lib/影咖.json"
     },
     {
       "key": "豪华资源",
@@ -2669,7 +2669,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/xinshijue.json"
+      "ext": "./18lib/xinshijue.json"
     },
     {
       "key": "剧圈影视",
@@ -2679,7 +2679,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/jqqys.json"
+      "ext": "./18lib/jqqys.json"
     },
     {
       "key": "Vidhub",
@@ -2689,7 +2689,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/vid.json"
+      "ext": "./18lib/vid.json"
     },
     {
       "key": "饭团影视",
@@ -2699,32 +2699,32 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/fantuan.json"
+      "ext": "./18lib/fantuan.json"
     },
     {
       "key": "利播蓝光",
       "name": "🥮利播┃韩剧",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/drpy.min.js",
+      "api": "./18lib/drpy.min.js",
       "searchable": 0,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/libvio.js"
+      "ext": "./18lib/libvio.js"
     },
     {
       "key": "低端影视",
       "name": "🥮低端┃影视",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/drpy2.min.js",
+      "api": "./18lib/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/diduan.js"
+      "ext": "./18lib/diduan.js"
     },
     {
       "key": "飞云",
       "name": "🥮飞云┃影视",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/AppysV2.js",
+      "api": "./18lib/AppysV2.js",
       "searchable": 1,
       "changeable": 1,
       "ext": {
@@ -2738,22 +2738,22 @@
       "key": "魔力高清",
       "name": "🥮魔力┃高清",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/drpy2.min.js",
+      "api": "./18lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/HDmoli.js"
+      "ext": "./18lib/HDmoli.js"
     },
     {
       "key": "csp_TVB",
       "name": "🥮TVB┃云播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/HeChengChaXiu.jar",
+      "jar": "./18lib/HeChengChaXiu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/tvbyun.json"
+      "ext": "./18lib/tvbyun.json"
     },
     {
       "key": "两个BT",
@@ -2761,7 +2761,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_Bttwoo",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/fan0430.txt",
+      "jar": "./18lib/fan0430.txt",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -2773,7 +2773,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/xinchen.json"
+      "ext": "./18lib/xinchen.json"
     },
     {
       "key": "韩剧影院",
@@ -2783,7 +2783,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/hanju.json"
+      "ext": "./18lib/hanju.json"
     },
     {
       "key": "meowtv_syys",
@@ -2794,7 +2794,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/suying.json"
+      "ext": "./18lib/suying.json"
     },
     {
       "key": "胖虎影视",
@@ -2804,14 +2804,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/panghuys.json"
+      "ext": "./18lib/panghuys.json"
     },
     {
       "key": "酷看弹幕版",
       "name": "🥮酷看┃弹幕",
       "type": 3,
       "api": "csp_Kkys",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/dongchenok.jar",
+      "jar": "./18lib/dongchenok.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2825,7 +2825,7 @@
       "name": "🎯酷看┃直连",
       "type": 3,
       "api": "csp_Kkys",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/fan.txt",
+      "jar": "./18lib/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -2834,7 +2834,7 @@
       "key": "Bdys_spider",
       "name": "🎯哔滴┃直连",
       "api": "csp_Bdys01",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/fix140412.jar",
+      "jar": "./18lib/fix140412.jar",
       "type": 3,
       "filterable": 1,
       "quickSearch": 1,
@@ -2846,7 +2846,7 @@
       "name": "🎯Auete┃直连",
       "type": 3,
       "api": "csp_Auete",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/fty.jar",
+      "jar": "./18lib/fty.jar",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -2858,7 +2858,7 @@
       "name": "🎯毛驴┃直连",
       "type": 3,
       "api": "csp_MLYS",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/fty.jar",
+      "jar": "./18lib/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -2869,7 +2869,7 @@
       "name": "🎯快看┃直连",
       "type": 3,
       "api": "csp_Kuaikan",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/PandaQ240216.jar",
+      "jar": "./18lib/PandaQ240216.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2879,7 +2879,7 @@
       "name": "🎯立播┃直连",
       "type": 3,
       "api": "csp_Libvio",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/fan0313.txt",
+      "jar": "./18lib/fan0313.txt",
       "timeout": 15,
       "searchable": 0,
       "quickSearch": 1,
@@ -2928,7 +2928,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/红领巾影院.json"
+      "ext": "./18lib/红领巾影院.json"
     },
     {
       "key": "csp_XYQHiker_蓝光影院",
@@ -2938,7 +2938,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/蓝光影院.json"
+      "ext": "./18lib/蓝光影院.json"
     },
     {
       "key": "csp_XYQHiker_348电影网",
@@ -2948,7 +2948,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/348电影网.json"
+      "ext": "./18lib/348电影网.json"
     },
     {
       "key": "白菜影视",
@@ -2967,7 +2967,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/电影盒子.json"
+      "ext": "./18lib/电影盒子.json"
     },
     {
       "key": "91动漫",
@@ -2977,7 +2977,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/91dm.json"
+      "ext": "./18lib/91dm.json"
     },
     {
       "key": "动漫之家",
@@ -2987,14 +2987,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/动漫之家.json"
+      "ext": "./18lib/动漫之家.json"
     },
     {
       "key": "动漫巴士",
       "name": "✨动漫┃巴士",
       "type": 3,
       "api": "csp_WexDm84",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/yingso.jar",
+      "jar": "./18lib/yingso.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -3018,12 +3018,12 @@
       "key": "NT动漫",
       "name": "✨NT┃动漫",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/drpy2.min.js",
+      "api": "./18lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/ntdm.js"
+      "ext": "./18lib/ntdm.js"
     },
     {
       "key": "稀饭动漫",
@@ -3040,7 +3040,7 @@
       "name": "✨樱花┃动漫",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/PandaQ240309.jar",
+      "jar": "./18lib/PandaQ240309.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3782,7 +3782,7 @@
       "name": "🖥️在线┃外剧",
       "type": 3,
       "api": "csp_Zxzj",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/fan0313.txt",
+      "jar": "./18lib/fan0313.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -3794,7 +3794,7 @@
       "name": "💻短剧┃直连",
       "type": 3,
       "api": "csp_Wexduanjuvop",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/wex.txt",
+      "jar": "./18lib/wex.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -3806,7 +3806,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/duanjuu.json"
+      "ext": "./18lib/duanjuu.json"
     },
     {
       "key": "T4-IKTV",
@@ -3818,18 +3818,18 @@
       "key": "yyt",
       "name": "音悦台🎵MV",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/yinyuetai.js",
+      "api": "./18lib/yinyuetai.js",
       "searchable": 0
     },
     {
       "key": "meowtv_a8yy",
       "name": "A8Y🎵音乐",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/drpy2.min.js",
+      "api": "./18lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/a8yinyue.js"
+      "ext": "./18lib/a8yinyue.js"
     },
     {
       "key": "演唱会",
@@ -3838,17 +3838,17 @@
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/yinyue.json"
+      "ext": "./18lib/yinyue.json"
     },
     {
       "key": "短视频",
       "name": "网红Ⓦ美女",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/drpy2.min.js",
+      "api": "./18lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/duanshiping.js"
+      "ext": "./18lib/duanshiping.js"
     },
     {
       "key": "csp_Yj1211",
@@ -3863,17 +3863,17 @@
       "key": "JustLive",
       "name": "游戏Ⓨ直播",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/drpy.min.js",
+      "api": "./18lib/drpy.min.js",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/justlive.js"
+      "ext": "./18lib/justlive.js"
     },
     {
       "key": "看球",
       "name": "看球Ⓠ直播",
       "type": 3,
       "api": "csp_Kanqiu",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/PandaQ240309.jar",
+      "jar": "./18lib/PandaQ240309.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -3886,20 +3886,20 @@
       "key": "310js",
       "name": "体育Ⓣ直播",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/drpy2.min.js",
+      "api": "./18lib/drpy2.min.js",
       "changeable": 0,
       "gridview": 3,
       "style": {
         "type": "list"
       },
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/310直播.js"
+      "ext": "./18lib/310直播.js"
     },
     {
       "key": "虎牙直播js",
       "name": "虎牙Ⓗ直播",
       "type": 3,
-      "api": "https://gitee.com/ck995/zhibo/raw/master/18lib/drpy2.min.js",
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/huya2.js",
+      "api": "./18lib/drpy2.min.js",
+      "ext": "./18lib/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -3913,7 +3913,7 @@
       "name": "斗鱼Ⓓ直播",
       "type": 3,
       "api": "http://152.32.170.60/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/斗鱼直播.js",
+      "ext": "./18lib/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -3927,7 +3927,7 @@
       "name": "快手Ⓚ直播",
       "type": 3,
       "api": "csp_KsLive",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/dongchenok.jar",
+      "jar": "./18lib/dongchenok.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -3942,7 +3942,7 @@
       "name": "哔哔🅱合集",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/dongchenok.jar",
+      "jar": "./18lib/dongchenok.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3952,7 +3952,7 @@
       },
       "ext": {
         "cookie": "file://TV/bili_cookie.txt",
-        "json": "https://gitee.com/ck995/zhibo/raw/master/18lib/bili.json"
+        "json": "./18lib/bili.json"
       },
       "timeout": 20
     },
@@ -3961,18 +3961,18 @@
       "name": "哔哩🅱️短剧",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/xiaohu.jar",
+      "jar": "./18lib/xiaohu.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/Bili短剧.json"
+      "ext": "./18lib/Bili短剧.json"
     },
     {
       "key": "biliych",
       "name": "哔哔🅱歌曲",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/dongchenok.jar",
+      "jar": "./18lib/dongchenok.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -3982,7 +3982,7 @@
       },
       "ext": {
         "cookie": "file://TV/bili_cookie.txt",
-        "json": "https://gitee.com/ck995/zhibo/raw/master/18lib/biliych.json"
+        "json": "./18lib/biliych.json"
       },
       "timeout": 20
     },
@@ -4012,7 +4012,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/少儿教育.json"
+      "ext": "./18lib/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -4026,7 +4026,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/小学课堂.json"
+      "ext": "./18lib/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -4040,7 +4040,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/初中课堂.json"
+      "ext": "./18lib/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -4054,7 +4054,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/高中课堂.json"
+      "ext": "./18lib/高中课堂.json"
     },
     {
       "key": "csp_XYQHikerAL_9995",
@@ -4064,7 +4064,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/9995yunpan.json"
+      "ext": "./18lib/9995yunpan.json"
     },
     {
       "key": "csp_XYQHikerAL_云盘资源",
@@ -4074,7 +4074,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/yunpan.json"
+      "ext": "./18lib/yunpan.json"
     },
     {
       "key": "csp_Yisou",
@@ -4091,12 +4091,12 @@
       "name": "夸克📀网盘",
       "type": 3,
       "api": "csp_QuarkPanso",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/pgliu.jar",
+      "jar": "./18lib/pgliu.jar",
       "changeable": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/PG推送.json",
+      "ext": "./18lib/PG推送.json",
       "timeout": 60
     },
     {
@@ -4104,28 +4104,28 @@
       "name": "趣盘搜📀夸克",
       "type": 3,
       "api": "csp_Funletu",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/PG.jar",
+      "jar": "./18lib/PG.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/PG推送.json"
+      "ext": "./18lib/PG推送.json"
     },
     {
       "key": "混合盘",
       "name": "混合盘📀网盘",
       "type": 3,
       "api": "csp_HunHePan",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/pg0316.jar",
+      "jar": "./18lib/pg0316.jar",
       "timeout": 60,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/PG推送.json"
+      "ext": "./18lib/PG推送.json"
     },
     {
       "key": "Wexyingso",
       "name": "影搜📀网盘",
       "type": 3,
       "api": "csp_Wexyingso",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/yingso.jar",
+      "jar": "./18lib/yingso.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -4138,7 +4138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/pansearch.json"
+      "ext": "./18lib/pansearch.json"
     },
     {
       "key": "csp_Upyunso",
@@ -4168,7 +4168,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/77zys.json"
+      "ext": "./18lib/77zys.json"
     },
     {
       "key": "csp_XYQHikerAL_云盘资源分享",
@@ -4178,7 +4178,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/yunpanfx.json"
+      "ext": "./18lib/yunpanfx.json"
     },
     {
       "key": "csp_XYQHikerAL_阿里云盘网",
@@ -4188,14 +4188,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ck995/zhibo/raw/master/18lib/alypw.json"
+      "ext": "./18lib/alypw.json"
     },
     {
       "key": "盘Se",
       "name": "盘Se📀弹幕",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/dongchenok.jar",
+      "jar": "./18lib/dongchenok.jar",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -4210,7 +4210,7 @@
       "name": "Up搜📀弹幕",
       "type": 3,
       "api": "csp_Upys",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/dongchenok.jar",
+      "jar": "./18lib/dongchenok.jar",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -4225,7 +4225,7 @@
       "name": "盘搜📀弹幕",
       "type": 3,
       "api": "csp_PanSou",
-      "jar": "https://gitee.com/ck995/zhibo/raw/master/18lib/dongchenok.jar",
+      "jar": "./18lib/dongchenok.jar",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
